@@ -1,0 +1,23 @@
+Papers:
+	CS1500 exam summary
+
+  The OSI Model (Open Systems Interconnection)
+		Layer 2: Data-link
+			MAC Address
+			Media Access Control
+			Local to LAN
+
+  The TCP/IP Model
+		Google: How to Subnet
+		Designed for Department of Defense
+		Layer 3: Network Layer - IP Address IPv4
+			If Public - Global Adresses
+				(LAN Addresses are private)
+			Machine/PC
+				IP Address: 10.60.2.3
+				Subnet Mask: 255.255.0.0 / 16 <- # of ones in your subnet mask begin @left going right
+			Networks
+				IP Address: 10.60.0.0
+
+  Routing Information Protocol
+		CIDR Notation
