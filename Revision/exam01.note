@@ -1,0 +1,57 @@
+Define the following terms:
+	Client
+		Web:	A piece of computer hardware or software that accesses a service made available by a server.
+	Server
+		Web:	A computer program or a machine capable of accepting requests from clients and responding to them.
+	Virtual Machine
+		Web:	An emulation of a particular computer system. Operates based on the computer architecture and functions of a real or hypothetical computer. Their implementations may involve specialized hardware, software, or a combination of both.
+	Linux
+		Web:	A Unix-like and mostly POSIX-compilant computer OS assembled under the model of free and open-source software development and distribution.
+		Book:	Linux is the core of the OS: The Kernel.
+	Unix
+		Web:	A family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix.
+	Version/Build
+		Web:	http://softwaretestingmeasy.blogspot.com/2012/08/difference-between-buildrelease-and.html
+	Operating System
+		Web:	System software that manages computer hardware and software resources and provides common services for computer programs.
+	Shell
+		Web:	A user interface for access to an operating system's services. Use either a CLI or GUI.
+	Command Line
+		Web:	A user interface that is navigated by typing commands at prompts. Also known as CLI.
+	GUI
+		Web:	A type of interface that allows users to interact with electronic devices through graphical icons and visual indicators.
+	BASH
+		Web:	Bash is the GNU Project's shell. Means: Bourne Again SHell.
+
+Basic Linux Commands:
+
+
+Help or Information at the Command Prompt:
+
+What the Command Prompt tells you?
+	Self:	Commonly, which user you are in which machine and where you are.
+
+What is meant by a file system?
+	Web:	The way in which files are named and where they are placed logically for storage and retrieval.
+
+What is a home directory?
+	Web:	Directory which contains files for a given user of the system.
+
+What are subdirectories?
+	Web:	Directories inside of a directory.
+
+How to:
+	Create
+	Delete
+	Move
+
+How to:
+	Copy
+	Change Permissions
+		chmod [options] mode[,mode] file1 [file2 ...]
+		mode can be made by octal:
+		7 = rwx
+		ugoa
+		+-=
+	tar
+	gz
