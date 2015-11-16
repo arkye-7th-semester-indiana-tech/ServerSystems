@@ -4,3 +4,23 @@ Todays Goals:
 	3: Run updates
 	4: Add user 'julie'
 		adduser command
+	5: Install apache2
+		sudo apt-get install apache2
+		Find server ip:
+			ifconfig
+	6: Install MySQL
+		sudo apt-get install
+			mysql-server
+			libapache2-mod-auth-mysql
+			php5-mysql
+		sudo mysql_install_db
+		mysql_secure_installation
+	7: Install PHP:
+		sudo apt-get install
+			php5
+			libapache2-mod-php5
+			php5-mcrypt
+		sudo vi /var/www/info.php
+			<?php  phpinfo(); ?>
+		sudo service apache2 restart
+			go to your ip/info.php
